@@ -134,7 +134,6 @@ Edit
 
 ---
 
-Let me know if you want to add a project banner or GitHub badges!
 
 
 
